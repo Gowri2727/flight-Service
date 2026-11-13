@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SkySeat: Flight Seat Selection
 
 A responsive flight seat selection and passenger management interface, built for the KPaisa frontend assessment. It uses mock data and local React state only. There is no backend, no database and no real booking or payment.
@@ -110,3 +111,6 @@ Switching layouts **keeps a passenger's seat only if the same seat ID exists in 
 ## Project documents
 
 `AGENT.md` (requirements and architecture), `VISION.md` (product and design direction) and `CMD.md` (setup and deploy commands) are included for reference.
+=======
+# flight-Service
+>>>>>>> b489d2dfc232c916bdd9d01d9d3864dcfb424356
