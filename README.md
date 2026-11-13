@@ -108,9 +108,6 @@ Switching layouts **keeps a passenger's seat only if the same seat ID exists in 
 - Fonts load from Google Fonts. If they cannot load, system fonts are used.
 - Not tested on real devices or screen readers beyond automated tests and browser checks at mobile, tablet and desktop widths.
 
-## Project documents
-
-`AGENT.md` (requirements and architecture), `VISION.md` (product and design direction) and `CMD.md` (setup and deploy commands) are included for reference.
 =======
 # flight-Service
 >>>>>>> b489d2dfc232c916bdd9d01d9d3864dcfb424356
