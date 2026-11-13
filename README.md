@@ -3,8 +3,7 @@
 
 A responsive flight seat selection and passenger management interface, built for the KPaisa frontend assessment. It uses mock data and local React state only. There is no backend, no database and no real booking or payment.
 
-**Live demo:** _add your Vercel URL here after deploying_
-**Repository:** _add your GitHub URL here_
+**Live demo:** https://flightservice1.vercel.app/
 
 ![Desktop](docs/screenshot-desktop.png)
 
